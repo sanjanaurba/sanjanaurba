@@ -1,6 +1,6 @@
 👋 Hi!
 
-My name is Sanjana and I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in automating processes to boost efficiency and designing innovative hardware solutions.
+My name is Sanjana and I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in developing software to automate processes and boost efficiency, as well as hardware deisgn.
 
 - 🌱 I’m currently learning ...
 
