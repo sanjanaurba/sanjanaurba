@@ -1,9 +1,9 @@
 👋 Hi, I'm Sanjana!
 
-I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in developing software to automate processes and boost efficiency, as well as hardware deisgn.
+I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in developing software to automate and optimize processes, as well as hardware deisgn.
 
-
-- 🌱 I’m currently learning advanced AI and machine learning algorithms to predict and monitor ECG heart rates for disease prevention. By automating the detection of irregularities, I aim to develop a method for recognizing early warning signs.
+  
+- 🌱 I’m currently learning API intgerartion in sofware development. With this new knowledge, I am working towards creating a full stack mobile app using React Native and Swift that combines Google Maps API to track a users location and alert them upon arriving at their desired destination. This allows commuters like myself to catch up on much-needed sleep while ensuring they arrive at their destination on time.
 
 
 📫 Feel free to connect with me on LinkedIn or at sanjanaurba@gmail.com!
