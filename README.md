@@ -1,4 +1,4 @@
-👋 Hi, I'm Sanjana!
+👋 Hi, I'm Sanjana! 
 
 I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in developing software to automate and optimize processes, as well as hardware deisgn.
 
