@@ -3,7 +3,7 @@
 I am a third-year Computer Engineering Student at Toronto Metropolitan University. I have a strong interest in developing software to automate and optimize processes, as well as hardware deisgn.
 
   
-- 🌱 I’m currently learning API intgerartion in sofware development. With this new knowledge, I am working towards creating a full stack mobile app using React Native and Swift that combines Google Maps API to track a users location and alert them upon arriving at their desired destination. This allows commuters like myself to catch up on much-needed sleep while ensuring they arrive at their destination on time.
+- 🌱 I’m currently learning API integration in software development. With this new knowledge, I am working towards creating a full stack mobile app using React Native and Swift that combines Google Maps API to track a users location and alert them upon arriving at their desired destination. This allows commuters like myself to catch up on much-needed sleep while ensuring they arrive at their destination on time.
 
 
 📫 Feel free to connect with me on LinkedIn or at sanjanaurba@gmail.com!
