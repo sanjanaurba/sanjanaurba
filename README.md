@@ -8,9 +8,6 @@ I am a third-year Computer Engineering Student at Toronto Metropolitan Universit
 
 📫 Feel free to connect with me on LinkedIn or at sanjanaurba@gmail.com!
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/sanjanaurba)
-
-
 
 <!---
 sanjanaurba/sanjanaurba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
